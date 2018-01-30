@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/etoxin/crypto#readme",
   "dependencies": {
+    "chalk": "^2.3.0",
     "lodash": "^4.17.4",
     "node-fetch": "^1.7.3"
   }
