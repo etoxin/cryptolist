@@ -1,0 +1,24 @@
+{
+  "name": "mycrypto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etoxin/crypto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etoxin/crypto/issues"
+  },
+  "homepage": "https://github.com/etoxin/crypto#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "node-fetch": "^1.7.3"
+  }
+}
