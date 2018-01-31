@@ -1,7 +1,7 @@
 {
-  "name": "mycrypto",
-  "version": "1.0.0",
-  "description": "",
+  "name": "cryptolist",
+  "version": "1.0.1",
+  "description": "Lists the top ten Crypto currency prices.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/etoxin/crypto.git"
+    "url": "git+https://github.com/etoxin/cryptolist.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/etoxin/crypto/issues"
+    "url": "https://github.com/etoxin/cryptolist/issues"
   },
-  "homepage": "https://github.com/etoxin/crypto#readme",
+  "homepage": "https://github.com/etoxin/cryptolist#readme",
   "dependencies": {
     "chalk": "^2.3.0",
     "leftpad": "0.0.1",
