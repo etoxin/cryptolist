@@ -1,6 +1,6 @@
 {
   "name": "cryptolist",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "Lists the top ten Crypto currency prices.",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   "homepage": "https://github.com/etoxin/cryptolist#readme",
   "dependencies": {
     "chalk": "^2.3.0",
+    "commander": "^2.13.0",
     "leftpad": "0.0.1",
     "lodash": "^4.17.4",
     "node-fetch": "^1.7.3",
