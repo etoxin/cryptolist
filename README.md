@@ -1,3 +1,12 @@
+<h1 align="center">
+	<br>
+	<br>
+	<img width="320" src="https://raw.githubusercontent.com/etoxin/cryptolist/master/preview.png" alt="chalk">
+	<br>
+	<br>
+	<br>
+</h1>
+
 # Cryptolist
 
 Get a list of the current prices of cryptocurrencies.

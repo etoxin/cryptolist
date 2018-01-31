@@ -1,6 +1,6 @@
 {
   "name": "cryptolist",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Lists the top ten Crypto currency prices.",
   "main": "index.js",
   "scripts": {
