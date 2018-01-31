@@ -1,10 +1,7 @@
-<h1 align="center">
-	<br>
+<h1>
 	<br>
 	<img width="320" src="https://raw.githubusercontent.com/etoxin/cryptolist/master/preview.png" alt="chalk">
-	<br>
-	<br>
-	<br>
+    <br>
 </h1>
 
 # Cryptolist
