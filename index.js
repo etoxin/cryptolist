@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const fetch = require('node-fetch');
 const _ = require('lodash');
 const chalk = require('chalk');
@@ -16,7 +18,7 @@ class Crypto {
 
     results() {
         //           BTC: $9850.18     -9.74%  -11.93%   -1.94%
-        console.log(`Sym  Price        7D      24HR      1HR`);
+        console.log(`Sym  Price (USD)   7D      24HR      1HR`);
         console.log(`------------------------------------------`);
         for (let rank = 1; rank < 11; rank++) {
             this.logData(_.head(_.filter(this.data, { rank: String(rank) })));
