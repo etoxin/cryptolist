@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "bin": {
     "crypto": "./index.js"
@@ -26,6 +28,8 @@
     "leftpad": "0.0.1",
     "lodash": "^4.17.20",
     "node-fetch": "^1.7.3",
-    "rightpad": "^1.0.1"
-  }
+    "rightpad": "^1.0.1",
+    "snyk": "^1.319.0"
+  },
+  "snyk": true
 }
