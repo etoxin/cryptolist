@@ -26,7 +26,7 @@
     "chalk": "^2.3.0",
     "commander": "^2.13.0",
     "leftpad": "0.0.1",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.16",
     "node-fetch": "^1.7.3",
     "rightpad": "^1.0.1",
     "snyk": "^1.319.0"
