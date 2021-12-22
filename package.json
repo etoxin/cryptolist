@@ -29,7 +29,7 @@
     "lodash": "^4.17.20",
     "node-fetch": "^2.6.1",
     "rightpad": "^1.0.1",
-    "snyk": "^1.319.0"
+    "snyk": "^1.611.0"
   },
   "snyk": true
 }
